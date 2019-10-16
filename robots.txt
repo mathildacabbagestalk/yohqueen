@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://idooghaiz.arccos-1.net/sitemap.xml
